@@ -21,4 +21,4 @@ I am an Undergradute student and software developer
 - ⚡🪐 Fun fact: ... -->
 
 
-![Monojit's github stats](https://github-readme-stats.vercel.app/api?username=mcmonojit&show_icons=true&hide_border=true&bg&theme=material-palenight)
+<!-- ![Monojit's github stats](https://github-readme-stats.vercel.app/api?username=mcmonojit&show_icons=true&hide_border=true&bg&theme=material-palenight) -->
