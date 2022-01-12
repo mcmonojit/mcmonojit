@@ -11,7 +11,7 @@ I am an Undergradute student and software developer
 
 <!-- - 🔭 I’m currently working on the backend of my E-commerce application which is built using NodeJS. -->
 - 🌌 I’m currently learning React & NodeJS
-- 🚴‍ I’m looking to collaborate on open source projects & hackathons
+- 🚴‍ I would love to collaborate on open source projects & hackathons
 - 🧭 I have keen interest in AR
 
 
